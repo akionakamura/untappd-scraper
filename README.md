@@ -1,7 +1,7 @@
 # Untappd Scraper
-A few scripts to scraper Untappd pages. Things are pretty manual for now, but should improve as needed. For now, the only script avaible is one to scraper a ginva user list of checked-in beers.
+A few scripts to scrape Untappd pages. Things are pretty manual for now, but should improve as needed. For now, the only script avaible is one to scrape a given user list of checked-in beers.
 
-Go to the user you want to scrape page:
+Go to the user page you want to scrape:
 
     https://untappd.com/user/username/beers
 
